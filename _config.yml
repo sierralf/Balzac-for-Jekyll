@@ -7,14 +7,7 @@ canonical: http://jekyll.gtat.me
 owner:
   name:           Cole Towns
   avatar:         avatar.png
-  bio:            "Aesthete & Athlete"
-  email:          cole@coletownsend.com
-  twitter:        twnsndco
-  github:         coletownsend
-  instagram:      ctrunsthis
-  dribbble:       coletownsend
-  disqus:         balzac
-  location:       "Buffalo, NY"
+  
   # Plug in your disqus shortname!
 
 tools:
