@@ -1,5 +1,5 @@
 ---
-layout: post-no-feature
+layout: post-light-feature
 title: First Assignment Blog, 
 description: "The Internet With A Human Face" and first class deiscussion response. 
 categories: articles
