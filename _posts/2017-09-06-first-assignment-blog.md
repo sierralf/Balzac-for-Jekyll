@@ -1,9 +1,10 @@
 ---
 layout: post-light-feature
-title: First Assignment Blog, 
-description: "The Internet With A Human Face" and first class deiscussion response. 
+title: First Assignment Blog
+description: A response to "The Internet With A Human Face" and the class discussion.
 categories: articles
 date: 2017-09-06
+
 ---
 
 Correlation does not equal causation, that was practically mantra of my statistics class last year. That seems to be forgotten with the use of data despite the necessity to apply statistics in order to collect and have at least a chance of properly using the data collected. The bias of data, or rather the ability to gather and/or use data with bias, as discussed in class and the article, leads to misprofiling based on limited information or information without context. Data is a tool and if used with these blatant biases and misguided trust it can be severely damaging or utterly useless because, as Lulu pointed out, it crams people into boxes and when crammed into a box you will eventually mold to it. I feel people forget that data is just a tool and not a living entity entirely perfect and unburdened by human flaws. 
