@@ -1,7 +1,7 @@
 ---
 layout: post-light-feature
 title: Second Assignment Blog
-description: Article response.
+description: Article "Everybody lies: how Google search reveals our darkest secretes" response.
 categories: articles
 date: 2017-09-19
 
