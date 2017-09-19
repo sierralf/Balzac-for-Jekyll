@@ -1,7 +1,7 @@
 ---
 layout: post-light-feature
 title: Second Assignment Blog
-description: Article "Everybody lies" response.
+description: Article response.
 categories: articles
 date: 2017-09-19
 
