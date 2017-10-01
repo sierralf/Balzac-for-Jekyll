@@ -1,7 +1,7 @@
 ---
 layout: post-light-feature
 title: Fourth Assignment Blog
-description: Pair-coding and response
+description: Pair coding and response
 categories: articles
 date: 2017-09-30
 
